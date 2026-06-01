@@ -14,9 +14,9 @@ button{
 .pricing-container {
   display: grid;
   grid-template-columns: repeat(2, 2fr);
-  gap: 20px;
+  gap: 10px;
   justify-items: center;
-  padding: 20px;
+  padding: 10px;
 }
 
 .pricing-container .box:nth-child(3) {
